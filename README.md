@@ -12,3 +12,9 @@ WORKING OF AN ADJUSTABLE VOLTAGE REGULATOR
 ![IMG_8769](https://user-images.githubusercontent.com/110652550/230414947-52014ab8-71f6-4d74-98f7-6be82e04fd6e.jpeg)
 
 In this way, Vout can be varied with change in R2 ie the variable resistor.
+
+
+
+[gerber volreg.zip](https://github.com/samarthm04/FinalTask_Manas/files/11199497/gerber.volreg.zip)
+[drawioesc.pdf](https://github.com/samarthm04/FinalTask_Manas/files/11199512/drawioesc.pdf)
+<img width="1440" alt="Screenshot 2023-04-11 at 4 16 15 PM" src="https://user-images.githubusercontent.com/110652550/231137766-aeb0df23-4211-4a6e-9201-364b621b94d2.png">
