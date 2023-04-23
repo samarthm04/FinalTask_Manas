@@ -1,0 +1,107 @@
+Cmp-Mod V01 Created by PcbNew   date = 2023 April 23, Sunday 23:56:50
+
+BeginCmp
+TimeStamp = 26e81f50-b7c5-40ac-8de0-173274c5c44a
+Path = /f6552d5f-0185-4ae4-9bb0-8714f9dc6c5d
+Reference = C2;
+ValeurCmp = 0.9u;
+IdModule  = Capacitor_SMD:C_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 3e0e26cb-1a61-4de8-9ef9-0b131734019e
+Path = /7b4cb755-b8d1-487a-a506-9c1e30256a6b
+Reference = Y1;
+ValeurCmp = Resonator_Small;
+IdModule  = Crystal:Resonator_SMD-3Pin_7.2x3.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 4b873602-8766-433c-87ca-eaf15b6efcca
+Path = /b6a71de9-2b46-4d35-9202-5a253a4aef90
+Reference = HS1;
+ValeurCmp = Heatsink_Pad;
+IdModule  = Capacitor_SMD:CP_Elec_5x3.9;
+EndCmp
+
+BeginCmp
+TimeStamp = 67ad1276-58ff-4600-b1fc-e00e8d2ab589
+Path = /13d8b518-33e0-46a3-b3a1-e43ef86257e9
+Reference = SW1;
+ValeurCmp = SW_MEC_5G;
+IdModule  = Button_Switch_SMD:SW_DIP_SPSTx02_Slide_6.7x6.64mm_W6.73mm_P2.54mm_LowProfile_JPin;
+EndCmp
+
+BeginCmp
+TimeStamp = 689eb577-274d-47fd-9ce8-7e0dec4416dd
+Path = /bf66714c-308b-4e80-b83a-c6973238768e
+Reference = C5;
+ValeurCmp = 0.1nF;
+IdModule  = Capacitor_SMD:C_0201_0603Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 7352d258-61f3-43c7-8ca7-9ace5fffeb72
+Path = /e536284d-4c7e-4558-ab31-2f9f360b0471
+Reference = R3;
+ValeurCmp = 160K;
+IdModule  = Resistor_SMD:R_MELF_MMB-0207;
+EndCmp
+
+BeginCmp
+TimeStamp = 7a7c1157-bf0e-44d6-8aa3-82792fe66d65
+Path = /9392dc99-94d9-4506-8894-43fcc221d577
+Reference = R1;
+ValeurCmp = 7K;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 90af6eec-1e3d-48eb-acdb-2c3d99c654b6
+Path = /bbfc03d1-421d-4377-b001-58652fb4fa66
+Reference = C1;
+ValeurCmp = 1u;
+IdModule  = Capacitor_SMD:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = af555e21-0689-498b-b1ec-11a63f891c36
+Path = /56844f32-e984-42da-957a-fc38712be383
+Reference = U1;
+ValeurCmp = TLV76750DRVR;
+IdModule  = TLV76750DRVR linearvolreg:DRV0006A-IPC_A;
+EndCmp
+
+BeginCmp
+TimeStamp = bd583e51-f29c-4bd9-874c-3db0e208d43c
+Path = /cc6349aa-f3d6-49cb-80a3-6250d4dc5fbc
+Reference = U2;
+ValeurCmp = ATMEGA328P-AU;
+IdModule  = ATMEGA328pbau_microcontroller:32A_MCH;
+EndCmp
+
+BeginCmp
+TimeStamp = bed0c30a-168c-45ec-ba4a-a76cc5d24020
+Path = /74f70f31-21b9-4531-90ec-0c1ca7b520ad
+Reference = C3;
+ValeurCmp = 100nF;
+IdModule  = Capacitor_SMD:C_0201_0603Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = bffe3482-0887-4873-90ed-5dcce6e4e3f5
+Path = /9596ea45-ee7b-4cdb-920f-90a017085350
+Reference = C4;
+ValeurCmp = 0.1u;
+IdModule  = Capacitor_SMD:C_1812_4532Metric_Pad1.57x3.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = e5488188-c5c4-4e97-bdf4-01e6d671fcc5
+Path = /3553bffb-2624-41cd-a783-2fb7e586cdb3
+Reference = R2;
+ValeurCmp = 499K;
+IdModule  = Resistor_SMD:R_MELF_MMB-0207;
+EndCmp
+
+EndListe
