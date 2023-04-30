@@ -9,4 +9,4 @@ An electronic speed controller (ESC), which regulates a motor's speed, can be ma
 ![image](https://user-images.githubusercontent.com/110652550/235367602-67a5bafd-47ae-4287-b97f-fcc5280eeb9c.png)
 
 **3D view of the PCB**
-![image](https://user-images.githubusercontent.com/110652550/235367748-d9110be5-0799-43ea-bb09-3dc2d2cb7214.png)
+![image](https://user-images.githubusercontent.com/110652550/235367796-6af064ef-2311-484b-9e58-d1641727bda2.png)
