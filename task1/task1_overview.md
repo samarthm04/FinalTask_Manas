@@ -25,6 +25,7 @@ PCB FOR TASK 1
 <img src="https://user-images.githubusercontent.com/110652550/235358810-f4563439-307f-464a-8a15-759242941c73.png" width="50%" height="50%" />
 
 3D model of the PCB
+
 <img src="https://user-images.githubusercontent.com/110652550/235358919-34def6db-a242-429a-96ad-df5342c3dc39.png" width="50%" height="50%" />
 
 
